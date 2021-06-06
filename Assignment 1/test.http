@@ -1,0 +1,11 @@
+//GET http://localhost:8080/api/restaurants/60083c97f5d4164280a125df
+
+# PUT http://localhost:8080/api/restaurants/5eb3d668b31de5d588f42931
+# Content-Type: application/json
+
+# {
+#     "name": "Catering Service"
+# } 
+ 
+
+DELETE http://localhost:8080/api/restaurants/6008cdb7557ee947e023a4be
